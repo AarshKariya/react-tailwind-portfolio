@@ -1,10 +1,10 @@
 import React from "react";
 
 const HeaderData = [
-  { title: "Projects" },
-  { title: "About" },
-  { title: "Workflow" },
-  { title: "Contacts" },
+  { title: "Projects", key: 1 },
+  { title: "About", key: 2 },
+  { title: "Workflow", key: 3 },
+  { title: "Contacts", key: 4 },
 ];
 
 const Header = () => {
